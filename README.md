@@ -32,7 +32,7 @@ The diffuse radiance contributed from the first 1, 2, 4, 8 orders of scattering 
 Each code is provided with makefile and examples for plot and analysis.
 
 ## Authors
-This package was developed in 2014 by Meng Gao (https://github.com/kiwiriver) with supports from Prof. Ping Yang and George Kattawar at Texas A&M University. 
+This package was developed in 2014 by Meng Gao (https://github.com/kiwiriver) with supports from Profs. Ping Yang and George Kattawar at Texas A&M University. 
 
 ## References
 - Born, M. and E. Wolf (1999). Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light.
