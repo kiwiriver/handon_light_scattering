@@ -12,10 +12,11 @@ Here we demonstrate the basic concepts and numerical simulation methods for both
 A ray is incident on a sphere, after each reflection and transmission its intensity decreases
 
 ![](https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/sphere_nr_1.33/ray_path.png)
+<img src="https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/sphere_nr_1.33/ray_path.png" alt="drawing" width="200"/>
 
 Phase function:
 
-![]https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/sphere_nr_1.33/phase_function.png
+![](https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/sphere_nr_1.33/phase_function.png)
 
 ### Efficient Monte Carlo Radiative Transfer Simulation
 ### Successive Order of Scattering (SOS)
