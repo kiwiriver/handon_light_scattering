@@ -1,7 +1,6 @@
 # Basic scattering methods for radiative transfer simulations
 
 This package demonstrates basic single and multiple light scattering methods.
-The multiple scattering simulations require the knowledge of the single scattering properties from individual particles, and can provide the diffuse reflected and transmitted radiance from the multiple scattering among a collection of the particles.
 Details description of this package is in the document (https://github.com/kiwiriver/handon_light_scattering/blob/main/Handon_LightScattering_Practice.pdf).
 
 
@@ -18,9 +17,9 @@ The simulated phase function:
 <img src="https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/sphere_nr_1.33/phase_function.png" alt="drawing" width="400"/>
 
 ### Efficient Monte Carlo Radiative Transfer Simulation
-The diffuse radiance simulated by Monte Carlo method in a Rayleigh scattering plane parallel system with a normal optical depth of 1.0.
+The diffuse radiance simulated by Monte Carlo method in a Rayleigh scattering plane parallel system with various optical depths.
 
-<img src="https://github.com/kiwiriver/handon_light_scattering/blob/main/Monte_Carlo/example/rayleigh_tau_1.000_a_1.0/radiance.png" alt="drawing" width="400"/>
+<img src="https://github.com/kiwiriver/handon_light_scattering/blob/main/Monte_Carlo/example/mc.png" alt="drawing" width="400"/>
 
 
 ### Successive Order of Scattering (SOS)
