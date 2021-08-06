@@ -32,4 +32,4 @@ The diffuse radiance contributed from the first 1, 2, 4, 8 orders of scattering 
 Each code is provided with makefile and examples for plot and analysis.
 
 ## Authors
-This package was developed by Meng Gao (https://github.com/kiwiriver) with support by Prof. Ping Yang at Texas A&M University in 2014. 
+This package was developed in 2014 by Meng Gao (https://github.com/kiwiriver) with supports from Prof. Ping Yang at Texas A&M University. 
