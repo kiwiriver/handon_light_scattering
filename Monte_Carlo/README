@@ -1,0 +1,17 @@
+* compile file
+The source file in /src folder can be compiled and run through
+%./build_sh. An ouput folder will be created at the same time. 
+
+* example file
+A few examples are included in /example with figures and code to make
+plots. 
+
+radiance.dat is the data of the diffuse radiance from the Monte Carlo
+simulation. It can be plotted by using
+%python ../plot_radiance.py
+
+trajectory.dat is the data of the photon trajectories. The data can be
+used to debug the code and visulize the photon path. The data columns are
+defined as follows:
+photon index number, collision index number, photon weight, photon
+position x, y, z

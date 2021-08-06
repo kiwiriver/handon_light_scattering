@@ -1,0 +1,17 @@
+Code for studying the successive order of scattering. 
+This code is modified from the Monte Carlo code for radiative
+transfer of a Ralyeigh scattering medium. The order of scattering is
+tracked and constrained in this modified code. User can modified the
+maxium number of scatterings in the source code
+(MonteCarloRayleigh_SOS.f90) 
+
+* compile and run
+In source code folder /src
+% ./build.sh
+
+* example files are included in /example
+with different optical depths and different number of scattering
+orders 
+* plot graph in /example
+in the data folder run 
+%python ../plot_radiance.py

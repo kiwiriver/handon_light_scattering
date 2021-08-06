@@ -1,0 +1,21 @@
+* source code folder 
+to compile the file in source folder ./src run
+$./build.sh
+
+the default compiler is gfortran
+
+* output files
+log.dat:  number of rays, running time, etc
+p11.dat: phase function
+path.dat: the coordinates of the photo trajectories 
+
+* example and plot
+an example folder for the output files and plots is included in ./example
+two python codes are included to plot the phase function and ray
+trajectories. 
+
+to plot phase function file p11.dat run
+$python plot_phase_function.py
+
+to plot path.dat run
+$python plot_ray_path.py
