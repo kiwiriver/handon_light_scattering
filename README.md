@@ -11,7 +11,7 @@ Here we demonstrate the basic concepts and numerical simulation methods for both
 ### 2D Geometrical Ray Tracing
 A ray is incident on a sphere, after each reflection and transmission its intensity decreases
 
-<img src="https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/sphere_nr_1.33/ray_path.png" alt="drawing" width="400"/>
+<img src="https://github.com/kiwiriver/handon_light_scattering/blob/main/Ray_Tracing/example/ray_path.png" alt="drawing" width="400"/>
 
 The simulated phase function:
 
