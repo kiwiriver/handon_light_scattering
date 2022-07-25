@@ -1,7 +1,7 @@
 # Basic scattering methods for radiative transfer simulations
 
 This package demonstrates basic single and multiple light scattering methods.
-Details description of this package is in the document (https://github.com/kiwiriver/handon_light_scattering/blob/main/Handon_LightScattering_Practice.pdf).
+Details description of this package is in the document (https://github.com/kiwiriver/handon_light_scattering/blob/main/BasicLightScattering.pdf).
 
 
 ## Numerical Methods
